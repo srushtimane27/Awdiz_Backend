@@ -1,0 +1,25 @@
+{
+  "name": "awdiz_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srushtimane27/Awdiz_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srushtimane27/Awdiz_Backend/issues"
+  },
+  "homepage": "https://github.com/srushtimane27/Awdiz_Backend#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "type": "module"
+}
